@@ -1,3 +1,8 @@
+Required Harwdare
+-----------------
+-Nvidia Jetson TX2, Nanon, or Xavier NX
+-MIPI CSI-2 Camera
+
 Included Components
 -------------------
 
